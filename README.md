@@ -1,2 +1,1 @@
-This repository contains solutions to various LeetCode problems.  
-Solution quality and style may vary.
+
